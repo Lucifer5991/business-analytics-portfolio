@@ -1,4 +1,4 @@
-# 📈 Purchasing Power Parity & Real Exchange Rate Forecasting — Ireland and USA
+# 📈 Purchasing Power Parity & Real Exchange Rate Forecasting - Ireland and USA
 
 **Module:** IS6025 Business Forecasting | University College Cork  
 **Team Size:** 6 members  
